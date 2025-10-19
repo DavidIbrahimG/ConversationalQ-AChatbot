@@ -16,6 +16,10 @@ By leveraging embeddings, vector databases, and chat memory, the chatbot provide
 - 🧠 **Session Management:** Supports multiple sessions with unique retrievers and chat histories.
 
 ---
+<img width="1470" height="956" alt="Screenshot 2025-10-19 at 12 45 40" src="https://github.com/user-attachments/assets/a78c6aed-6f05-42fe-a694-50ab041fa6e9" />
+---
+<img width="1470" height="956" alt="Screenshot 2025-10-19 at 12 47 16" src="https://github.com/user-attachments/assets/b6f72776-fd9e-432e-8c3d-a6e710d18f8c" />
+---
 
 ## 🛠️ Tech Stack
 - **Python 3.10+**
